@@ -1,8 +1,7 @@
 # FIP Check
 _A Rubric-Based FAIR Assessment Tool for FAIR Implementation Profiles (FIPs) and FAIR Enabling Resources (FERs)_
 
-**Make your own copy:** [Click here to “Make a copy” of the FIP Check Google Sheet](#)  
-*(Link will be added when the template is finalized.)*
+**Make your own copy:** [Click here to “Make a copy” of the FIP Check Google Sheet](https://docs.google.com/spreadsheets/d/12xyAhPFMu0lSx1Cy3E1a-puIgglRIPddxRv4yQUm44A/copy)  
 
 
 
